@@ -1,0 +1,22 @@
+.nav{
+    background-color:lightgrey;
+    height: 50px;
+    width:100vw;
+    margin:0;
+    padding:0;
+    
+}
+.black{
+    background-color: black;
+    height:300px;
+    width: 100vw;
+    margin:0;
+    padding:0;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:4em;
+    text-transform: uppercase;
+    color:yellow;
+    text-align:center;
+
+}
